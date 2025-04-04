@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pjw1630 (Paul White)
-- 👀 I’m interested in AWS and Azure.
-- 🌱 I’m currently learning more about Python.
-- 💞️ I’m looking to collaborate on fun cloud projects.
+- 👀 I’m interested in Cloud and Platform Engineering
 - 📫 You can reach me at white@tamu.edu
 
 <!---
